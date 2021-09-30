@@ -3,3 +3,7 @@
 [Twitch adds phone-verified chat, expands email authentication settings as users face ‘hate raids’](https://techcrunch.com/2021/09/29/twitch-adds-phone-verified-chat-expands-email-authentication-settings-as-users-face-hate-raids/)  
 I find this interesting because it addressed one of a problems with humans interacting on the internet. There is a lack of accountabiility for what one says. I think this is a nice soluiton that Twitch is using, which I think surely will bring down comments with hate.
 
+# Comment by Farhan Mashud
+
+This article was really an interesting read, very interesting to see Twitch's plan on curbing harrassment on their platform using technology.
+
